@@ -1,3 +1,4 @@
+Cart totals are shown in cents and displayed as $X.XX.
 xWelcome to ShopEasy.
 Cart Totals are shown in cents.
 Discounts apply before tax.
